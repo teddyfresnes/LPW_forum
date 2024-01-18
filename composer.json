@@ -1,0 +1,20 @@
+{
+    "name": "binome1/forum",
+    "description": "Forum en MongoDB",
+    "autoload": {
+        "psr-4": {
+            "Binome1\\Forum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KOEHREN Teddy"
+        },
+        {
+            "name": "SINTASATH Valérie"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}
