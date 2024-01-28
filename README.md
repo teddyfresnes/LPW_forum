@@ -21,6 +21,6 @@ Hebergé sur https://www.projet-web-training.ovh/licence07/
 
 ![image](https://github.com/teddyfresnes/LPW_forum/assets/80900011/25e43146-df03-49c8-8c8b-8b78d2bf8658)  
 ![image](https://github.com/teddyfresnes/LPW_forum/assets/80900011/76a13373-44d6-4752-b3e8-5f7c8b0a134a)  
-![image](https://github.com/teddyfresnes/LPW_forum/assets/80900011/afefe4a3-c5bf-4cea-88ac-4e6cc11b677c)  
+![image](https://github.com/teddyfresnes/LP_forum/assets/80900011/7870f2f0-e5ef-4f5e-924b-9b8c4523f653)  
 ![image](https://github.com/teddyfresnes/LPW_forum/assets/80900011/81043ee2-8d7c-46a8-948a-1f639e8c9495)  
 
